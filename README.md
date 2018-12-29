@@ -1,10 +1,5 @@
-# Coriolan UI
+# emvs2010 v1
 
-Web development of user interface tooll
+Made in 2010
 
-### Run
-
-```
-npm install
-npm start
-```
+`http-server -p 3001`
